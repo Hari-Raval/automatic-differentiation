@@ -5,8 +5,7 @@
 ### Code Coverage: 
 [![codecov](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject/branch/main/graph/badge.svg?token=JA65917L6C)](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject)
 
-### Link to our [Documentation](https://github.com/cs107-AHJZ/cs107-FinalProject/blob/main/docs/documentation.pdf)
-
+### Link to our [Documentation](https://github.com/Hari-Raval/automatic-differentiation/blob/main/docs/documentation.pdf)
 
 ### Broader Impact and Inclusivity
 
