@@ -1,14 +1,13 @@
-# cs107-FinalProject
-CS 107 Final Project Repo
+# AC 207 Final Project: Systems Development for Computational Science 
 
-##### Group Number: 2 
-##### Team Members: Aditi Memani, Zongjun Liu, Joseph Zuccarelli, Hari Raval 
+##### Team Members: Hari Raval, Aditi Memani, Zongjun Liu, Joseph Zuccarelli
 
 ### Code Coverage: 
 [![codecov](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject/branch/main/graph/badge.svg?token=JA65917L6C)](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject)
 
 #### Link to our [Documentation](https://github.com/cs107-AHJZ/cs107-FinalProject/blob/main/docs/documentation.pdf)
 
+#### Link to our [video overview](https://google.com)
 
 ### Broader Impact and Inclusivity
 
