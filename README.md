@@ -4,9 +4,11 @@
 
 ### Overview:
 
-This repository provides code to perform automatic differentiation for a user-defined function and seed vector as well as optimization techniques to determine the minimum values of functions.
+This repository provides code to perform automatic differentiation for a user-defined function and seed vector as well as optimization techniques to determine the minimum values of functions. The code is made available in this GitHub repository as well as a PyPI package as described in our [documentation](https://github.com/Hari-Raval/automatic-differentiation/blob/main/docs/documentation.pdf).
 
-### Link to our [Documentation](https://github.com/Hari-Raval/automatic-differentiation/blob/main/docs/documentation.pdf)
+### How To Use:
+
+Please refer to 
 
 ### Code Coverage: 
 [![codecov](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject/branch/main/graph/badge.svg?token=JA65917L6C)](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject)
