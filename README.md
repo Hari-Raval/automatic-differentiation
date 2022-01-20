@@ -1,4 +1,4 @@
-# Final Project for AC 207 (Systems Development for Computational Science)
+# Final Project for AC 207: Automatic Differentiation and Optimization
 
 ##### Team Members: Hari Raval, Aditi Memani, Zongjun Liu, Joseph Zuccarelli
 
