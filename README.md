@@ -2,10 +2,14 @@
 
 ##### Team Members: Hari Raval, Aditi Memani, Zongjun Liu, Joseph Zuccarelli
 
-### Code Coverage: 
-[![codecov](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject/branch/main/graph/badge.svg?token=JA65917L6C)](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject)
+### Overview:
+
+This repository provides code to perform automatic differentiation for a user-defined function and seed vector as well as optimization techniques to determine the minimum values of functions.
 
 ### Link to our [Documentation](https://github.com/Hari-Raval/automatic-differentiation/blob/main/docs/documentation.pdf)
+
+### Code Coverage: 
+[![codecov](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject/branch/main/graph/badge.svg?token=JA65917L6C)](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject)
 
 ### Broader Impact and Inclusivity
 
