@@ -2,15 +2,15 @@
 
 ##### Team Members: Hari Raval, Aditi Memani, Zongjun Liu, Joseph Zuccarelli
 
-### Overview:
+### Overview
 
 This repository provides code to perform automatic differentiation for a user-defined function and seed vector as well as optimization techniques to quickly determine the minimum values of functions. The code is made available in this GitHub repository as well as through a PyPI package as described in our [documentation](https://github.com/Hari-Raval/automatic-differentiation/blob/main/docs/documentation.pdf).
 
-### How To Use:
+### How To Use
 
 Please refer to the "How to Use" section [here](https://github.com/Hari-Raval/automatic-differentiation/blob/main/docs/documentation.pdf) for examples and demos about how to download and run our automatic differentiation and optimization techniques software. 
 
-### Code Coverage: 
+### Code Coverage
 [![codecov](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject/branch/main/graph/badge.svg?token=JA65917L6C)](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject)
 
 ### Broader Impact and Inclusivity
