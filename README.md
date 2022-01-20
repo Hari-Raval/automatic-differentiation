@@ -8,7 +8,7 @@ This repository provides code to perform automatic differentiation for a user-de
 
 ### How To Use:
 
-Please refer to 
+Please refer to the "How to Use" section [here](https://github.com/Hari-Raval/automatic-differentiation/blob/main/docs/documentation.pdf) for examples about how to download and run our automatic differentiation and optimization techniques software. 
 
 ### Code Coverage: 
 [![codecov](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject/branch/main/graph/badge.svg?token=JA65917L6C)](https://codecov.io/gh/cs107-AHJZ/cs107-FinalProject)
